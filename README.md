@@ -5,7 +5,7 @@
 
 ### I am an Electrical Engineer gratuated at Universidade Federal do Espírito Santo (UFES). Data is everywhere and the reason I got into Data Science is because I wanted to learn how it can be used to improve everyone's life.
 
-- 💻 I'm currently working providing data science services in a Metallurgical Industry.
+- 💻 I'm currently working as a Data Scientist at <a href = 'https://www.trustly.net/pt-BR'>Trustly</a>.
 - 💻 I’m interested in Machine Learning, Deep Learning and BI solutions.
 - 📊 I’m currently learning more about Data Science, Big Data and deployment of Machine Learning solutions.
 - 📈 I’m looking to collaborate with other Data Scientists and developers and help businesses become more data-driven.
